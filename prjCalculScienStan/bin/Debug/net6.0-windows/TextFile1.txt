@@ -1,0 +1,63 @@
+﻿Australia
+Australian dollar
+1.45
+Brazil
+Brazilian real
+5.17
+China
+chinese renminbi
+6.82
+Europe
+Europian euro
+1.00
+Hong Kong
+Hong kong dollar 
+7.85
+India
+Indian rupee
+79.93
+Indonesia
+Indonisian rupiah
+14875.40
+Japan
+japanese yen
+136.90
+Mexico
+Mexican peso
+20.18
+New Zealand
+New Zealand dollar
+1.62
+Russia
+Russian ruble
+59.50
+Saudi 
+Saudian riyal
+3.76
+Singapore
+Singapore dollar
+1.39
+South Africa
+South africa rand
+17.02
+South Korea
+South korean won
+1335.86
+Sweden
+Sweden krona
+10.59
+Swiss
+Swiss franc
+0.96
+Taiwan
+Taiwan dollar
+30.12
+Turkey
+Turkish lira
+18.09
+UK 
+Uk pound sterling
+0.85
+Canada
+canadian dollar
+1.30
